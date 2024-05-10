@@ -9,7 +9,8 @@ const movies = [
     "Dosa",
     "Bacon",
     "Hot Dog",
-    "Pasta"
+    "Pasta",
+    "Biriyani"
 ];
 
 // Function to create movie voting elements
