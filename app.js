@@ -1,15 +1,15 @@
 // Array of movie titles
 const movies = [
-    "The Shawshank Redemption",
-    "The Godfather",
-    "The Dark Knight",
-    "Pulp Fiction",
-    "Inception",
-    "Forrest Gump",
-    "Fight Club",
-    "The Lord of the Rings: The Return of the King",
-    "The Matrix",
-    "Interstellar"
+    "Pizza",
+    "Burger",
+    "Sandwhich",
+    "Yoghurt",
+    "Orange",
+    "Upma",
+    "Dosa",
+    "Bacon",
+    "Hot Dog",
+    "Pasta"
 ];
 
 // Function to create movie voting elements
